@@ -14,6 +14,14 @@ Rust Axum API , Vector DB SQLite
 * rustc 1.99.1 
 
 ***
+### related client
+
+* C++ client , vector search
+
+https://github.com/kuc-arc-f/cpp_18ex/tree/main/vec_cl_21
+
+
+***
 * build
 ```
 cargo build --release
